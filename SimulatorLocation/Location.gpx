@@ -6,9 +6,9 @@
      waypoint, Xcode will simulate that specific location. If you provide multiple waypoints,
      Xcode will simulate a route visiting each waypoint.
      -->
-    <wpt lat="23.181393" lon="113.348801">//此处修改为自己需要定位地点的经纬度，如：茶卡盐湖 23.184293,113.360428
+    <wpt lat="23.181393" lon="113.348672">//此处修改为自己需要定位地点的经纬度，如：茶卡盐湖 23.184293,113.360428
 <!--    <wpt lat="37.331705" lon="-122.030237">-->
-        <name>Cupertino</name>
+        <name>Cong1</name>
         
         <!--
          Optionally provide a time element for each waypoint. Xcode will interpolate movement
@@ -19,5 +19,24 @@
          -->
         <time>2014-09-24T14:55:37Z</time>
     </wpt>
-    
+    <wpt lat="23.181353" lon="113.348642">
+        <name>Cong2</name>
+        <time>2014-09-24T14:55:38Z</time>
+    </wpt>
+    <wpt lat="23.181303" lon="113.348602">
+        <name>Cong3</name>
+        <time>2014-09-24T14:55:39Z</time>
+    </wpt>
+    <wpt lat="23.181282" lon="113.348580">
+        <name>Cong4</name>
+        <time>2014-09-24T14:55:40Z</time>
+    </wpt>
+    <wpt lat="23.181260" lon="113.348547">
+        <name>Cong5</name>
+        <time>2014-09-24T14:55:41Z</time>
+    </wpt>
+    <wpt lat="23.181240" lon="113.348520">
+        <name>Cong6</name>
+        <time>2014-09-24T14:55:42Z</time>
+    </wpt>
 </gpx>
